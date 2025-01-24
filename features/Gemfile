@@ -1,0 +1,6 @@
+
+gem install 'cucumber'
+gem install 'capybara'
+gem install 'site_prism'
+gem install 'rspec'
+gem install  'selenium-webdriver'
